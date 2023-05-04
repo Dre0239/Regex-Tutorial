@@ -78,4 +78,4 @@ Boundries used are the ^caret to siginify the start of the string and the $ doll
 ## Author
 Hey there! I am Andre, at UCR Full Stack Developer Bootcamp student. This assignments is to learn about Regex and gists. Read my Regex tutorial., at my [Gist-Github](https://github.com/Dre0239/Regex-Tutorial/blob/main/.gist.js) 
 
-<script src="https://gist.github.com/Dre0239/ec4e60d3b3b0888fa964ddafb09fc2ce.js"></script>
+
