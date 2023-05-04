@@ -76,4 +76,6 @@ A lazy match would be denoted as a double ??.  Lazy means as few occurrences of 
 Boundries used are the ^caret to siginify the start of the string and the $ dollar sign signifies the end of the string.
 
 ## Author
-Hey there! I am Andre, at UCR Full Stack Developer Bootcamp student. This assignments is to learn about Regex and gists. Read my Regex tutorial., at my [Github](https://github.com/Dre0239/Regex-Tutorial) 
+Hey there! I am Andre, at UCR Full Stack Developer Bootcamp student. This assignments is to learn about Regex and gists. Read my Regex tutorial., at my [Github](https://gist.github.com/Dre0239/ec4e60d3b3b0888fa964ddafb09fc2ce) 
+
+<script src="https://gist.github.com/Dre0239/ec4e60d3b3b0888fa964ddafb09fc2ce.js"></script>
